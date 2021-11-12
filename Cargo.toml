@@ -6,6 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-nt-hive = { git = "https://github.com/ColinFinck/nt-hive.git", rev = "26bee7cb3579eb179eb91b2b0e23952080ddb16d" }
+nt-hive = "0.2"
 zerocopy = "0.5"
 crc = "2.1"
+hex_fmt = "0.3"
