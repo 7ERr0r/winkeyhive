@@ -1,6 +1,11 @@
 winkeyhive
 ===
 
+Prebuilt binary:
+```
+curl https://github.com/7ERr0r/winkeyhive/releases/download/v0.1/winkeyhive_amd64 -L -o winkeyhive && chmod 755 winkeyhive && ./winkeyhive
+```
+
 
 To retrieve Windows product keys on Ubuntu:
 `cargo run`
